@@ -1,0 +1,4 @@
+.idea
+*.iml
+.ipynb*
+octave-workspace
